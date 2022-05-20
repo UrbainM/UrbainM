@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UrbainM
+- 👋 Hi, I’m Mitchell Urbain
 - 👀 Machine Learning
 - 🌱 6-D Tensors
 - 💞️ Idea Bouncing
